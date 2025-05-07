@@ -47,7 +47,11 @@ Dentro del contenedor Kali (una sola vez por sesión):
 
 ```bash
 apt update
-apt install -y metasploit-framework nmap net-tools curl iputils-ping
+apt install -y metasploit-framework
+apt install -y nmap
+apt install -y  net-tools
+apt install -y  curl
+apt install -y  iputils-ping
 ```
 
 ---
